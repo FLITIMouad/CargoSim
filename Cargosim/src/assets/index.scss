@@ -12,6 +12,10 @@ body{
         .mapContainer{
             height: 473px;
         }
+        .card-body{
+            display: flex;
+            gap: 3rem !important;
+        }
     }
    }
 }

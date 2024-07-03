@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CargoSimBackend.props" />
+</Project>
