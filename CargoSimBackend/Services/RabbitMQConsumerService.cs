@@ -1,5 +1,6 @@
 ﻿namespace CargoSimBackend.Services;
-
+using Polly;
+using Polly.Retry;
 using CargoSimBackend.DTO_s;
 using CargoSimBackend.Services.Infrastructure;
 using Microsoft.AspNetCore.SignalR;
@@ -10,18 +11,29 @@ using System.Text;
 
 public class RabbitMQConsumerService : BackgroundService
 {
-    private readonly IConnection _connection;
-    private readonly IModel _channel;
+    private  IConnection _connection;
+    private  IModel _channel;
     private readonly IHubContext<NotificationHub> _hubContext;
     private readonly IOrderService _orderService;
     private readonly ISimulationService _simulationService;
 
     public RabbitMQConsumerService(IHubContext<NotificationHub> _hubContext,IOrderService orderService,ISimulationService simulationService)
     {
-        var factory = new ConnectionFactory() { HostName = "localhost", Port=5672 };
-        _connection = factory.CreateConnection();
-        _channel = _connection.CreateModel();
-        _channel.QueueDeclare(queue: "HahnCargoSim_NewOrders", durable: false, exclusive: false, autoDelete: false, arguments: null);
+          var policy = Policy
+                .Handle<Exception>()
+                .WaitAndRetry(7, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt)),
+                    (exception, timeSpan, retryCount, context) =>
+                    {
+                        Console.WriteLine($"Retry {retryCount} encountered an error: {exception.Message}. Waiting {timeSpan} before next retry.");
+                    });
+
+            policy.Execute(() =>
+            {
+                var factory = new ConnectionFactory() { HostName = "localhost", Port = 5672 };
+                _connection = factory.CreateConnection();
+                _channel = _connection.CreateModel();
+                _channel.QueueDeclare(queue: "HahnCargoSim_NewOrders", durable: false, exclusive: false, autoDelete: false, arguments: null);
+            });
         this._hubContext = _hubContext;
         _orderService = orderService;
         _simulationService = simulationService;
