@@ -1,8 +1,16 @@
 import { createContext, useContext, useEffect } from "react";
+import useStore from "../Store/ZustandStore";
+import connection from "../services/SignalrService";
 const AuthContext = createContext();
 const ProvideAuth = ({ children }) => {
-    const {userInfo} = { userInfo: {name:"mouad"} }; // Adjust this to get the actual user info
-    const auth = { user: userInfo };
+    const {UserInfo} = useStore((state)=>state); 
+    const auth = UserInfo ? { user: {userName:UserInfo?.userName} }:null;
+    useEffect(()=>{
+      if(!auth)
+      {
+        connection.off('ordersHub');
+      }
+    },[auth])
     return <AuthContext.Provider value={auth}>{children}</AuthContext.Provider>;
   };
   

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.SignalR;
+﻿namespace CargoSimBackend.Services;
+
+using Microsoft.AspNetCore.SignalR;
 
 public class NotificationHub : Hub
 {

@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\infrastructure\\igridservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\infrastructure\\igridservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\gridservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\gridservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\infrastructure\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\infrastructure\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\rabbitmqconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\dto\u0027s\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:dto\u0027s\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\simulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\infrastructure\\isimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\infrastructure\\isimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\infrastructure\\irestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\infrastructure\\irestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\dto\u0027s\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:dto\u0027s\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\infrastructure\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\infrastructure\\iconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|c:\\users\\mfliti\\documents\\project\\cargosim\\cargosimbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EF29FF-A366-4CC6-9300-53F84D904374}|CargoSimBackend.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1300510870:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1097955763:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1887425551:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:746462288:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGridService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IGridService.cs",
+              "RelativeDocumentMoniker": "Services\\Infrastructure\\IGridService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IGridService.cs",
+              "RelativeToolTip": "Services\\Infrastructure\\IGridService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:39:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\SimulationService.cs",
+              "RelativeDocumentMoniker": "Services\\SimulationService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\SimulationService.cs",
+              "RelativeToolTip": "Services\\SimulationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:48:15.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\ISimulationService.cs",
+              "RelativeDocumentMoniker": "Services\\Infrastructure\\ISimulationService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\ISimulationService.cs",
+              "RelativeToolTip": "Services\\Infrastructure\\ISimulationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:47:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\GridService.cs",
+              "RelativeDocumentMoniker": "Services\\GridService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\GridService.cs",
+              "RelativeToolTip": "Services\\GridService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:36:20.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHYUAAAAAAAAAAAAwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-09T21:32:10.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:51:49.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Infrastructure\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IOrderService.cs",
+              "RelativeToolTip": "Services\\Infrastructure\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:50:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\DTO\u0027s\\Order.cs",
+              "RelativeDocumentMoniker": "DTO\u0027s\\Order.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\DTO\u0027s\\Order.cs",
+              "RelativeToolTip": "DTO\u0027s\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:44:50.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "Services\\ConfigurationService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:16:49.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IConfigurationService.cs",
+              "RelativeDocumentMoniker": "Services\\Infrastructure\\IConfigurationService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IConfigurationService.cs",
+              "RelativeToolTip": "Services\\Infrastructure\\IConfigurationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:16:21.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\DTO\u0027s\\Grid.cs",
+              "RelativeDocumentMoniker": "DTO\u0027s\\Grid.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\DTO\u0027s\\Grid.cs",
+              "RelativeToolTip": "DTO\u0027s\\Grid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:10:00.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\NotificationHub.cs",
+              "RelativeToolTip": "Services\\NotificationHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:07:55.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRestClient.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IRestClient.cs",
+              "RelativeDocumentMoniker": "Services\\Infrastructure\\IRestClient.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\Infrastructure\\IRestClient.cs",
+              "RelativeToolTip": "Services\\Infrastructure\\IRestClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:07:42.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\RabbitMQConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\RabbitMQConsumerService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\RabbitMQConsumerService.cs",
+              "RelativeToolTip": "Services\\RabbitMQConsumerService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:19:06.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:01:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:58:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestClient.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\RestClient.cs",
+              "RelativeDocumentMoniker": "Services\\RestClient.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Services\\RestClient.cs",
+              "RelativeToolTip": "Services\\RestClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:56:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:55:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mfliti\\Documents\\project\\CargoSim\\CargoSimBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:48:41.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
